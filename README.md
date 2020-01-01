@@ -1,4 +1,3 @@
-general practice for
 
 ## React + Redux (async)
 
